@@ -13,4 +13,5 @@ pkg install python2
 pkg install git
 git clone https://github.com/MrNOOB07/HackFBSTRIKE
 cd HackFBSTRIKE
+ls
 python2 FBSTRIKE.py
