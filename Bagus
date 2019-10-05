@@ -1,0 +1,17 @@
+
+$pkg install update
+$pkg install upgrade
+$pkg install python
+$pkg install python2
+$pkg install figlet
+$pkg install cowsay
+$pkg install toilet
+$pkg install ruby
+$pkg install git
+$git clone https://github.com/MrNOOB07/Bagus
+$ cd Bagus
+$ ls
+$ python2 Bagus.py
+
+
+
